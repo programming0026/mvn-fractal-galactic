@@ -21,7 +21,7 @@ import org.apache.commons.numbers.complex.Complex;
  * Dibuja el fractal galáctico (z = c·z·(1 − z) con c = -0.7 + 0.775i) en un panel Swing,
  * coloreando cada punto según el número de iteraciones que tarda en divergir.
  *
- * @author linux
+ * @author Java Universe
  */
 public class Galactic extends JPanel {
 
